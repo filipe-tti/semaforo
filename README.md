@@ -1,2 +1,2 @@
 # semaforo
- Um semáforo simples em htmj,css e js.
+ Um simples semáforo em html,css e js.
